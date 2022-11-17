@@ -27,3 +27,6 @@ require('./brushes/spheres.js');
 require('./brushes/cubes.js');
 require('./brushes/rainbow.js');
 require('./brushes/single-sphere.js');
+
+require('./brushes/straightedge.js');
+require('./brushes/voxels.js');
